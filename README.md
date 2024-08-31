@@ -1,6 +1,88 @@
-# Loading Skeleton Templates
+# Skeleton_Templates
+
+
+<p align="center">
+  <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMDAgMTAwIiB3aWR0aD0iMzAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0ibm9uZSI+CiAgICA8ZGVmcz4KICAgICAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImdyYWQxIiB4MT0iMCUiIHkxPSIwJSIgeDI9IjEwMCUiIHkyPSIxMDAlIj4KICAgICAgICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3R5bGU9InN0b3AtY29sb3I6I2ZmNmY2MTtzdG9wLW9wYWNpdHk6MSIgLz4KICAgICAgICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdHlsZT0ic3RvcC1jb2xvcjojZDgzYTU2O3N0b3Atb3BhY2l0eToxIiAvPgogICAgICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgICA8L2RlZnM+CgogICAgPHBhdGggZD0iTTQ5IDQwIEM2NSA0MCBMODYgNjAgTDEwNSA0MCBMODYgMjAgWiIgZmlsbD0id2hpdGUiIC8+CiAgICA8dGV4dCB4PSIxMjAiIHk9IjYwIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMzAiIGZpbGw9IiMzMzMiIGZvbnQtd2VpZ2h0PSJib2xkIiB0ZXh0LWFuY2hvcj0ic3RhcnQiPkxvYWRpZnk8L3RleHQ+Cjwvc3ZnPgo=" alt="Project Logo" width="300" height="100">
+</p>
+
 ---
 This repository contains a collection of loading skeleton templates designed to mimic the loading states of various popular web applications. These templates are built using HTML and Tailwind CSS to provide a visually appealing and responsive loading experience.
+
+---
+## **💪🏿 List & Skeleton Name:**
+
+1. **Facebook Loading Skeleton**
+   - Inspired by Facebook's loading placeholders.
+
+2. **GitHub Loading Skeleton**
+   - Inspired by GitHub's loading placeholders.
+
+3. **Twitter (X) Loading Skeleton**
+   - Inspired by Twitter's loading placeholders.
+
+4. **Instagram Loading Skeleton**
+   - Inspired by Instagram's loading placeholders.
+
+5. **Threads Loading Skeleton**
+   - Inspired by Threads' loading placeholders.
+
+6. **WhatsApp Loading Skeleton**
+   - Inspired by WhatsApp's loading placeholders.
+
+7. **TikTok Loading Skeleton**
+   - Inspired by TikTok's loading placeholders.
+
+8. **LinkedIn Loading Skeleton**
+   - Inspired by LinkedIn's loading placeholders.
+
+9. **TikTok For You Page Loading Skeleton**
+   - Specifically for TikTok's For You Page.
+
+10. **TikTok Profile Page Loading Skeleton**
+    - Specifically for TikTok's Profile Page.
+
+11. **TikTok Chats Page Loading Skeleton**
+    - Specifically for TikTok's Chats Page.
+
+12. **Messenger Chats List Home Page Loading Skeleton**
+    - Inspired by Facebook Messenger's Chats List.
+
+13. **Facebook Profile Page Loading Skeleton**
+    - Inspired by Facebook's Profile Page.
+
+14. **Facebook Settings Page Loading Skeleton**
+    - Inspired by Facebook's Settings Page.
+
+15. **YouTube Home Page Loading Skeleton**
+    - Inspired by YouTube's Home Page.
+
+16. **YouTube Reels Page Loading Skeleton**
+    - Inspired by YouTube's Reels Page.
+
+17. **YouTube Subscription Page Loading Skeleton**
+    - Inspired by YouTube's Subscription Page.
+
+18. **Telegram Loading Skeleton**
+    - Inspired by Telegram's loading placeholders.
+
+19. **Telegram Profile Loading Skeleton**
+    - Inspired by Telegram's Profile Page.
+
+20. **Meta Business Sites Loading Skeleton**
+    - Inspired by Meta Business sites' loading placeholders.
+
+21. **YouTube Studio (YT Studio) Loading Skeleton**
+    - Inspired by YouTube Studio's loading placeholders.
+
+22. **MyGP App Loading Skeleton**
+    - Inspired by the MyGP app's loading placeholders.
+
+23. **Google Loading Skeleton**
+    - Inspired by Google's clean and minimalistic loading placeholders.
+
+24. **Bonus Beautiful Loading Skeleton**
+    - A custom, visually appealing loading skeleton template.
+
 
 ## Overview
 ---
