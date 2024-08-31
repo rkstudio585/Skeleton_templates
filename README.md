@@ -116,13 +116,156 @@ To use a loading template, copy the corresponding HTML code from the templates s
 ### Facebook Profile Page
 
 ```html
-<!-- Add the HTML code for the Facebook Profile Page loading skeleton here -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Facebook Profile Page Loading Skeleton</title>
+    <!-- Tailwind CSS CDN -->
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+</head>
+<body class="bg-gray-100 flex justify-center items-center min-h-screen p-4">
+    <div class="w-full max-w-3xl p-4 bg-white rounded-lg shadow-md">
+        <!-- Cover Photo -->
+        <div class="animate-pulse mb-6">
+            <div class="h-48 bg-gray-300 rounded"></div>
+        </div>
+        
+        <!-- Profile Header -->
+        <div class="animate-pulse flex items-center mb-6">
+            <div class="relative">
+                <div class="absolute -bottom-6 left-4 border-4 border-white rounded-full h-24 w-24 bg-gray-300"></div>
+                <div class="h-24 w-24 bg-gray-300 rounded-full"></div>
+            </div>
+            <div class="ml-32 flex-1 space-y-4">
+                <div class="h-6 bg-gray-300 rounded w-1/3"></div>
+                <div class="h-4 bg-gray-300 rounded w-1/4"></div>
+                <div class="h-4 bg-gray-300 rounded w-1/2"></div>
+            </div>
+        </div>
+        
+        <!-- About Section -->
+        <div class="animate-pulse mb-6">
+            <div class="h-4 bg-gray-300 rounded w-1/2 mb-2"></div>
+            <div class="h-4 bg-gray-300 rounded w-3/4 mb-2"></div>
+            <div class="h-4 bg-gray-300 rounded w-2/3"></div>
+        </div>
+
+        <!-- Posts List -->
+        <div class="animate-pulse">
+            <!-- Post 1 -->
+            <div class="mb-6">
+                <div class="flex items-center mb-4">
+                    <div class="rounded-full bg-gray-300 h-12 w-12"></div>
+                    <div class="ml-4 flex-1 space-y-2">
+                        <div class="h-4 bg-gray-300 rounded w-1/3"></div>
+                        <div class="h-3 bg-gray-300 rounded w-1/4"></div>
+                    </div>
+                </div>
+                <div class="h-4 bg-gray-300 rounded w-5/6 mb-2"></div>
+                <div class="h-4 bg-gray-300 rounded w-3/4 mb-2"></div>
+                <div class="h-4 bg-gray-300 rounded w-2/3"></div>
+            </div>
+
+            <!-- Post 2 -->
+            <div class="mb-6">
+                <div class="flex items-center mb-4">
+                    <div class="rounded-full bg-gray-300 h-12 w-12"></div>
+                    <div class="ml-4 flex-1 space-y-2">
+                        <div class="h-4 bg-gray-300 rounded w-1/3"></div>
+                        <div class="h-3 bg-gray-300 rounded w-1/4"></div>
+                    </div>
+                </div>
+                <div class="h-4 bg-gray-300 rounded w-5/6 mb-2"></div>
+                <div class="h-4 bg-gray-300 rounded w-3/4 mb-2"></div>
+                <div class="h-4 bg-gray-300 rounded w-2/3"></div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
 ```
 
 ### YouTube Home Page
 
 ```html
-<!-- Add the HTML code for the YouTube Home Page loading skeleton here -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>YouTube Home Page Loading Skeleton</title>
+    <!-- Tailwind CSS CDN -->
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+</head>
+<body class="bg-gray-100 flex flex-col items-center p-4">
+    <div class="w-full max-w-6xl">
+        <!-- Video Thumbnails Grid -->
+        <div class="animate-pulse">
+            <!-- Row 1 -->
+            <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4 mb-6">
+                <!-- Video Thumbnail 1 -->
+                <div class="bg-gray-300 h-40 rounded"></div>
+                <!-- Video Thumbnail 2 -->
+                <div class="bg-gray-300 h-40 rounded"></div>
+                <!-- Video Thumbnail 3 -->
+                <div class="bg-gray-300 h-40 rounded"></div>
+                <!-- Video Thumbnail 4 -->
+                <div class="bg-gray-300 h-40 rounded"></div>
+            </div>
+
+            <!-- Row 2 -->
+            <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4 mb-6">
+                <!-- Video Thumbnail 5 -->
+                <div class="bg-gray-300 h-40 rounded"></div>
+                <!-- Video Thumbnail 6 -->
+                <div class="bg-gray-300 h-40 rounded"></div>
+                <!-- Video Thumbnail 7 -->
+                <div class="bg-gray-300 h-40 rounded"></div>
+                <!-- Video Thumbnail 8 -->
+                <div class="bg-gray-300 h-40 rounded"></div>
+            </div>
+        </div>
+
+        <!-- Video Titles and Channel Names -->
+        <div class="animate-pulse">
+            <!-- Row 1 Titles -->
+            <div class="flex justify-between mb-4">
+                <div class="space-y-2">
+                    <div class="h-4 bg-gray-300 rounded w-3/4"></div>
+                    <div class="h-3 bg-gray-300 rounded w-1/2"></div>
+                </div>
+                <div class="w-24 h-3 bg-gray-300 rounded"></div>
+            </div>
+            <!-- Row 2 Titles -->
+            <div class="flex justify-between mb-4">
+                <div class="space-y-2">
+                    <div class="h-4 bg-gray-300 rounded w-3/4"></div>
+                    <div class="h-3 bg-gray-300 rounded w-1/2"></div>
+                </div>
+                <div class="w-24 h-3 bg-gray-300 rounded"></div>
+            </div>
+            <!-- Row 3 Titles -->
+            <div class="flex justify-between mb-4">
+                <div class="space-y-2">
+                    <div class="h-4 bg-gray-300 rounded w-3/4"></div>
+                    <div class="h-3 bg-gray-300 rounded w-1/2"></div>
+                </div>
+                <div class="w-24 h-3 bg-gray-300 rounded"></div>
+            </div>
+            <!-- Row 4 Titles -->
+            <div class="flex justify-between mb-4">
+                <div class="space-y-2">
+                    <div class="h-4 bg-gray-300 rounded w-3/4"></div>
+                    <div class="h-3 bg-gray-300 rounded w-1/2"></div>
+                </div>
+                <div class="w-24 h-3 bg-gray-300 rounded"></div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
 ```
 
 ### Google Style
