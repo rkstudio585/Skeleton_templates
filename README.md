@@ -1,9 +1,6 @@
 # Skeleton_Templates
 
-
-<p align="center">
-  <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMDAgMTAwIiB3aWR0aD0iMzAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0ibm9uZSI+CiAgICA8ZGVmcz4KICAgICAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImdyYWQxIiB4MT0iMCUiIHkxPSIwJSIgeDI9IjEwMCUiIHkyPSIxMDAlIj4KICAgICAgICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3R5bGU9InN0b3AtY29sb3I6I2ZmNmY2MTtzdG9wLW9wYWNpdHk6MSIgLz4KICAgICAgICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdHlsZT0ic3RvcC1jb2xvcjojZDgzYTU2O3N0b3Atb3BhY2l0eToxIiAvPgogICAgICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgICA8L2RlZnM+CgogICAgPHBhdGggZD0iTTQ5IDQwIEM2NSA0MCBMODYgNjAgTDEwNSA0MCBMODYgMjAgWiIgZmlsbD0id2hpdGUiIC8+CiAgICA8dGV4dCB4PSIxMjAiIHk9IjYwIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMzAiIGZpbGw9IiMzMzMiIGZvbnQtd2VpZ2h0PSJib2xkIiB0ZXh0LWFuY2hvcj0ic3RhcnQiPkxvYWRpZnk8L3RleHQ+Cjwvc3ZnPgo=" alt="Project Logo" width="300" height="100">
-</p>
+![Project Logo](Logo.svg)
 
 ---
 This repository contains a collection of loading skeleton templates designed to mimic the loading states of various popular web applications. These templates are built using HTML and Tailwind CSS to provide a visually appealing and responsive loading experience.
