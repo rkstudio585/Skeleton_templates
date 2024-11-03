@@ -80,6 +80,33 @@ This repository contains a collection of loading skeleton templates designed to 
 24. **Bonus Beautiful Loading Skeleton**
     - A custom, visually appealing loading skeleton template.
 
+# Live Demo link
+
+- [Bonus.html](https://templates-gamma-two.vercel.app/Bonus.html)
+- [Facebook.html](https://templates-gamma-two.vercel.app/Facebook.html)
+- [Facebook_Settings_page.html](https://templates-gamma-two.vercel.app/Facebook_Settings_page.html)
+- [Facebook_profile.html](https://templates-gamma-two.vercel.app/Facebook_profile.html)
+- [GitHub.html](https://templates-gamma-two.vercel.app/GitHub.html)
+- [Google.html](https://templates-gamma-two.vercel.app/Google.html)
+- [Instagram.html](https://templates-gamma-two.vercel.app/Instagram.html)
+- [LinkedIn.html](https://templates-gamma-two.vercel.app/LinkedIn.html)
+- [Massagers.html](https://templates-gamma-two.vercel.app/Massagers.html)
+- [Meta_Business.html](https://templates-gamma-two.vercel.app/Meta_Business.html)
+- [MyGp.html](https://templates-gamma-two.vercel.app/MyGp.html)
+- [Telegram.html](https://templates-gamma-two.vercel.app/Telegram.html)
+- [Telegram_profile.html](https://templates-gamma-two.vercel.app/Telegram_profile.html)
+- [Threads.html](https://templates-gamma-two.vercel.app/Threads.html)
+- [TikTok.html](https://templates-gamma-two.vercel.app/TikTok.html)
+- [TikTok_chats_page.html](https://templates-gamma-two.vercel.app/TikTok_chats_page.html)
+- [TikTok_foryou_page.html](https://templates-gamma-two.vercel.app/TikTok_foryou_page.html)
+- [TikTok_profile_page.html](https://templates-gamma-two.vercel.app/TikTok_profile_page.html)
+- [Twitter_X.html](https://templates-gamma-two.vercel.app/Twitter_X.html)
+- [WhatsApp.html](https://templates-gamma-two.vercel.app/WhatsApp.html)
+- [YT_Studio.html](https://templates-gamma-two.vercel.app/YT_Studio.html)
+- [YouTube.html](https://templates-gamma-two.vercel.app/YouTube.html)
+- [YouTube_Subscription.html](https://templates-gamma-two.vercel.app/YouTube_Subscription.html)
+- [YouTube_reel.html](https://templates-gamma-two.vercel.app/YouTube_reel.html)
+
 
 ## Overview
 ---
